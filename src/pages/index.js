@@ -15,7 +15,7 @@ export default function Home() {
             <div className="row align-items-center">
               <div className="col-lg-6 d-none d-lg-block">
                 <div className="header-top-offer">
-                  <a href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site">
+                  <a href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site">
                     <p>Get Trusted Online ID Here </p> </a>
                 </div>
               </div>
@@ -24,11 +24,11 @@ export default function Home() {
                   <div className="header-social">
                     <ul>
                       <ul className="sm-megamenu-hover sm_megamenu_menu sm_megamenu_menu_black">
-                        <li><a href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site"
+                        <li><a href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site"
                           target="/">Home</a> </li>
-                        <li><a href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site"
+                        <li><a href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site"
                           target="_blank">Contact Us</a></li>
-                        <li><a href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site"
+                        <li><a href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site"
                           target="_blank">Privacy Policy</a></li>
                       </ul>
 
@@ -89,7 +89,7 @@ export default function Home() {
             </div>
           </section>
         </div>
-        <a target="_blank" href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site"
+        <a target="_blank" href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site"
           className="enq-side-btn-icone"><i><FaWhatsapp /></i></a>
         {/* <!-- breadcrumb-area --> */}
         {/* <!-- game-single-area --> */}
@@ -105,7 +105,7 @@ export default function Home() {
                           ININDIA</span>
                       </h4>
                     </div>
-                    <a target="_blank" href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site" >
+                    <a target="_blank" href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site" >
                       <div className="uc-game-price">
                         <h5>Get Your ID RIGHT NOW with 100 Welcome Bonus.</h5>
                       </div>
@@ -151,13 +151,13 @@ export default function Home() {
                     </div>
                     <div className="footer-social">
                       <ul>
-                        <li><a href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site" target="_blank">
+                        <li><a href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site" target="_blank">
                           <i><FaInstagram /></i>
                         </a></li>
-                        <li><a href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site" target="_blank">
+                        <li><a href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site" target="_blank">
                           <i><FaTelegramPlane /></i>
                         </a></li>
-                        <li><a href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site" target="_blank">
+                        <li><a href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site" target="_blank">
                           <i><FaWhatsapp /></i>
                         </a></li>
                       </ul>
@@ -194,9 +194,9 @@ export default function Home() {
             </div>
           </div>
           <div className="paybtn">
-            <a className="" href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site" target="_blank">
+            <a className="" href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site" target="_blank">
               <FaWhatsapp /> <span>WhatsApp Now</span></a>
-            <a className="" href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site" target="_blank">
+            <a className="" href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site" target="_blank">
               <FaUserFriends /><span>Get Your Cricket ID</span></a>
           </div>
         </div>
@@ -206,11 +206,11 @@ export default function Home() {
         <div className="footer-top footer-bg s-footer-bg">
           <div className="container">
             <ul className="sm-megamenu-hover sm_megamenu_menu sm_megamenu_menu_black sdfgfd">
-              <li><a href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site"
+              <li><a href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site"
                 target="_blank">Terms and conditions</a></li>
-              <li><a href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site"
+              <li><a href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site"
                 target="_blank">Game Addiction</a></li>
-              <li><a href="http://wa.me//919284451075?text=Hi! I need ID to play on your Site"
+              <li><a href="http://wa.me//447897051668?text=Hi! I need ID to play on your Site"
                 target="_blank">Privacy Policy</a></li>
             </ul>
           </div>
